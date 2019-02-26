@@ -13,6 +13,7 @@ Name : ARATA(ニックネーム:ぼぶ)
 
 ###Mail
 * b1014253アットfun.ac.jp
+* hoge
 
 ###だれ
 
